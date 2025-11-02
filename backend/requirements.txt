@@ -5,3 +5,4 @@ sentence-transformers
 nltk
 torch
 requests
+gunicorn
